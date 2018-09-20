@@ -1,19 +1,20 @@
 # Ramandeep Singh
-GitHub Desktop (DVCS) - Exercise
-Matching Exercise
-1.	Commits History/Changes 
-Answer: F
-2.	Sync (push/pull) with Origin 
-Answer: D
-3.	Alterations of committed item 
-Answer: E
-4.	General Operational Tools for Maintenance 
-Answer: B
-5.	Change branch 
-Answer: C
-6.	Current (selection of) repository 
-Answer: A
-Short Answer & Multiple Choice
+Match the following .
+
+1.Commits History/Changes
+ Answer:- F
+2.Sync (push/pull) with Origin
+ Answer:- D
+3.Alterations of committed item
+ Answer:- E
+4.General Operational Tools for Maintenance
+ Answer:- B
+5.Change branch
+ Answer:- C
+6.Current (selection of) repository
+ Answer:- A
+ 
+ Short Answer & Multiple Choice
 1.	Under which menu item is the Show in Explorer option? 
 Answer: Repository
 2.	Under which menu item can you add or Clone repositories. 
